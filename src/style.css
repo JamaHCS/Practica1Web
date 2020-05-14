@@ -14,3 +14,8 @@ td {
   align-items: center;
   text-align: center;
 }
+
+.column,
+.rowTable {
+  font-weight: 600;
+}
