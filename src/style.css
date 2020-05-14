@@ -1,0 +1,16 @@
+td {
+  background-color: transparent;
+  color: #000;
+  padding: 0.5em 1em;
+  border: 1px solid rgb(151, 151, 151);
+}
+
+.horario {
+  width: 80%;
+  margin: 2em auto;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
